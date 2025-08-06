@@ -1,4 +1,4 @@
--- Esta é uma implementação do algoritmo de Luhn em Haskell
+-- Implementação do algoritmo de Luhn
 
 module Luhn where
 
